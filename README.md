@@ -142,11 +142,10 @@ A successful run ends with the agent at the goal and reports zero obstacle cells
 
 ## Screenshots / demo
 Save your outputs and add screenshots to `assets/`. Suggested filenames:
-- `assets/01_environment.png`
-- `assets/02_astar_path.png`
-- `assets/03_agent_navigation.png`
-- `assets/04_successful_run.png`
-- `assets/05_terminal_metrics.png`
+<img width="1366" height="768" alt="Screenshot 2026-10-14 190116" src="https://github.com/user-attachments/assets/3a011e98-b6ea-4143-9cc7-fb859083f585" />
+<img width="1366" height="768" alt="Screenshot 2026-10-14 190140" src="https://github.com/user-attachments/assets/d4a6f0c6-a34f-4d58-bed0-665f3104e836" />
+<img width="1366" height="768" alt="Screenshot 2026-10-14 190012" src="https://github.com/user-attachments/assets/7957fff5-c3ed-4d0b-8199-f39db6d04194" />
+
 
 Embed them after capturing real screenshots:
 ```markdown
