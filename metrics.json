@@ -1,0 +1,18 @@
+{
+  "algorithm": "A* (Manhattan heuristic; four-way movement)",
+  "start": [
+    1,
+    1
+  ],
+  "goal": [
+    28,
+    18
+  ],
+  "path_found": true,
+  "path_nodes_including_start_and_goal": 45,
+  "movement_steps": 44,
+  "obstacle_count": 122,
+  "collision_cells_on_path": 0,
+  "status": "success",
+  "note": "Grid cells are simulated occupancy data, not camera-based object detections."
+}
